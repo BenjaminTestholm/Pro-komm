@@ -1,0 +1,5 @@
+Javascript hvad er det for noget? 
+
+JavaScript er et dynamisk programmeringssprog. Det er mest almindeligt anvendt som en del af webbrowsere, hvis implementeringer
+tillader sidens scripts mes  at kommunikere med brugeren, kontrollere browseren, kommunikere asynkront, og ændre indholdet af HTML 
+dokumenter. 
